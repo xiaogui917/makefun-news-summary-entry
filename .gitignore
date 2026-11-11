@@ -1,0 +1,7 @@
+__pycache__/
+out/
+transcripts.tar.gz
+transcripts/
+.env
+*.keypair.json
+makefun-keypair.json
